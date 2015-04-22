@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=hanthana
+Comment=elementary desktop custom theme
+Encoding=UTF-8
+
+Name[en_US]=hanthana
+
+[X-GNOME-Metatheme]
+GtkTheme=hanthana
+MetacityTheme=hanthana
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
