@@ -161,6 +161,10 @@ NoiseLibraryWindow.window-frame {
  * Panel *
  ********/
 
+.panel { /*@hanthana*/
+    font-size: 8px; /*@hanthana*/
+}
+
 .panel {
     background-color: transparent;
     color: #fff;

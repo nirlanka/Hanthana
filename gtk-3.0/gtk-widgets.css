@@ -1789,7 +1789,7 @@ GtkTreeMenu .menuitem {
 }
 
 .menu .menuitem { /*@hanthana*/
-  padding: 4px 6px;
+  /*padding: 3px 6px;*/
 }
 
 .menu .menuitem *:insensitive {
@@ -3380,8 +3380,12 @@ GtkListBox .h4{
 @import url("apps.css");
 
 .menuitem { /*@hanthana*/
-  /*padding: 3px 4px !important;*/
+  /*padding: 3px 4px;*/
 }
 .menuitem:hover { /*@hanthana*/
   /*padding: 3px 4px;*/
+}
+
+.menu .menuitem { /*@hanthana*/
+  padding: 3px 4px;
 }
